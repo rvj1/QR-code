@@ -1,0 +1,44 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.box{
+    background-color: white;
+    height: auto;
+    width: 265px;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 105px;
+    font-family: outfit;
+    font-size: 15px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+    border-radius: 7.5px;
+    height: 260px;
+    width: 260px;
+}
+
+.p{
+    color: gray;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    margin-top: 0px;
+}
+
+.h{
+    padding-bottom: 0px;
+    font-size: 23px;
+}
